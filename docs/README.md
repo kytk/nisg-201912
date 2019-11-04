@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# Matlab/VBM習得勉強会
 
-You can use the [editor on GitHub](https://github.com/kytk/nisg-201912/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2019年12月01日に開催予定である **『Matlab/VBM習得勉強会』** の受講者を
+対象とした情報提供サイトです。新しい情報があれば、随時このサイトへ
+追加していきますので、定期的にアクセスするようにして下さい。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 新着情報
+- 2019.11.04: 勉強会用ウェブサイトを立ち上げました。
 
-### Markdown
+## 会場案内
+- [オフィス東京](https://www.officetokyo.net/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## チュートリアル当日のお願い
+- 会場は、飲食可能です。しかし、コンピュータを使いますので、コーヒーをキーボードの上にこぼすといった悲劇が起こらないよう、ふたのついた飲み物の持ち込みにご協力ください。昼食は、会場内で召し上がっていただいてかまいません。
+- 開場時間は **08:30** です。いろいろ不安な方は早めにお越しいただき、講師やチューターとコミュニケーションをとっておくことをお勧めします。
+- 会場に到着したら、まず受付をお願いします。
 
-```markdown
-Syntax highlighted code block
+## 勉強会までの予定
+- 2019.11.15: 2週間前までに勉強会のテキストやデータを配布します。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 勉強会のスケジュール(予定)
 
-1. Numbered
-2. List
+| 時間        | 内容                                                |
+| 事前予習    | MATLABの基本                                        |
+| 08:30       | 開場                                                |
+| 09:00-09:05 | 開会                                                |
+| 09:05-10:30 | 第1部: 脳画像解析の観点でのMatlabの基本             |
+| 10:40-12:00 | 第2部: SPM.mat, xSPMの探検　　　                    |
+| 12:00-13:00 | -- 昼食 --                                          |
+| 13:00-15:00 | 第3部: SPMを利用したバッチ処理                      |
+| 15:00-17:00 | 第4部: 「今さら聞けないことを聞きたい」コーナー     |
+| 17:00-17:30 | 質疑応答　                                          |
 
-**Bold** and _Italic_ and `Code` text
+## パソコンの持参について
+- 勉強会では、受講者にPCを持参して頂き、実際に操作しながらコマンドラインについて学んでいきます。PCのスペックについては、以下の**推奨条件**を参考にして下さい
+	- Windowsユーザー
+		- Windows 7以降 **64bit版**
+		- メモリ：8GB以上
+		- ハードディスク：100GB以上の空き容量
+		- 2ボタン以上のUSBマウス（必須ではありませんが、持っていると便利です）
+    
+	- Macユーザー
+		- macOS 10.11(El Captain)以降
+		- メモリ：8GB以上
+		- ハードディスク：100GB以上の空き容量
+		- 2ボタン以上のUSBマウス（必須ではありませんが、持っていると便利です）
+    
 
-[Link](url) and ![Image](src)
-```
+## 事前準備
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### (1) ソフトウェア
+- Matlab
+今回はMatlabは必須です。各自準備してきてください。
 
-### Jekyll Themes
+- SPM12
+「すぐできるVBM」などを参考にしながら、SPMのインストールを済ませてきてください。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kytk/nisg-201912/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### (2) テキストおよびデータのダウンロード
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+こちらは近日中に公開します。
+
+	
+## 問い合わせ
+準備がうまくいかない時のために、問い合わせフォームを準備しています
+。こちらからご質問ください。数日以内に担当者から返信させていただきます。
+
+[問い合わせフォーム](https://forms.gle/w4q3rL8egJBc2mRX6)
+
+
+-----
+
+
+Copyright(C) 2017-9 脳画像解析勉強会 All Rights Reserved.
+
